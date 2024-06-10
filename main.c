@@ -1,7 +1,7 @@
 /*
-İbrahim Turğut
-Arda Kerem Şenpınar 
-Ömer Kürşat Canbaz
+İbrahim Turğut             20211706033
+Arda Kerem Şenpınar        20211706027 
+Ömer Kürşat Canbaz         20211706009
 */
 #include <stdio.h>
 #include <stdlib.h>
