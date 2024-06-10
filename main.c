@@ -1,3 +1,8 @@
+/*
+İbrahim Turğut
+Arda Kerem Şenpınar 
+Ömer Kürşat Canbaz
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
