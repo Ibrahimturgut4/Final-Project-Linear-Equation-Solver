@@ -1,7 +1,7 @@
 # Final-Project-Linear-Equation-Solver
 
-İbrahim Turğut       20211706033
-Arda Kerem Şenpınar  20211706027
+İbrahim Turğut       20211706033 n\
+Arda Kerem Şenpınar  20211706027 n\
 Ömer Kürşat Canbaz   20211706009
 
 # Description
